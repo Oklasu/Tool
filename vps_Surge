@@ -70,7 +70,7 @@ Netflix = select,Proxies,DIRECT,🇭🇰 HK Dmit,🇭🇰 HK Haruka IEPL,🇭�
 Others = select,Proxies,DIRECT
 Apple = select,DIRECT,Proxies
 Spotify = select,DIRECT,Proxies
-Auto - UrlTest = url-test,🇭🇰 HK Dmit,🇭🇰 HK Haruka IEPL,🇭🇰 HK Haruka IEPL 2,🇭🇰 HK Haruka UDPN,🇭🇰 HK Haruka WeiYi,🇭🇰 HK AperNet AS9929,🇸🇬 SG Misaka IEPL,🇸🇬 SG Azure IEPL,🇸🇬 SG Misaka IEPL 2,🇸🇬 SG Misaka UDPN,🇸🇬 SG Misaka WeiYi,🇸🇬 SG Misaka CMI,🇯🇵 JP Misaka IEPL,🇯🇵 JP Misaka WeiYi,🇯🇵 JP Oracle WeiYi,🇨🇳 TW Misaka IEPL,🇨🇳 TW Misaka IEPL 2,🇨🇳 TW Misaka UDPN,🇨🇳 TW Misaka WeiYi,🇨🇳 TW Misaka CMI,🇺🇸 US Limewave IPLC,🇺🇸 US Misaka IPLC,🇺🇸 US Limewave WeiYi,🇺🇸 US Misaka WeiYi,🇺🇸 US xTom CN2GIA,🇺🇸 US CloudSilk AS9929,url=http://cp.cloudflare.com/generate_204,interval=1800
+Auto - UrlTest = url-test,🇭🇰 HK Dmit,🇭🇰 HK Haruka IEPL,🇭🇰 HK Haruka IEPL 2,🇭🇰 HK Haruka UDPN,🇭🇰 HK Haruka WeiYi,🇭🇰 HK AperNet AS9929,🇸🇬 SG Misaka IEPL,🇸🇬 SG Azure IEPL,🇸🇬 SG Misaka IEPL 2,🇸🇬 SG Misaka UDPN,🇸🇬 SG Misaka WeiYi,🇸🇬 SG Misaka CMI,🇯🇵 JP Misaka IEPL,🇯🇵 JP Misaka WeiYi,🇯🇵 JP Oracle WeiYi,🇨🇳 TW Misaka IEPL,🇨🇳 TW Misaka IEPL 2,🇨🇳 TW Misaka UDPN,🇨🇳 TW Misaka WeiYi,🇨🇳 TW Misaka CMI,🇺🇸 US Limewave IPLC,🇺🇸 US Misaka IPLC,🇺🇸 US Limewave WeiYi,🇺🇸 US Misaka WeiYi,🇺🇸 US xTom CN2GIA,🇺🇸 US CloudSilk AS9929,url=http://cp.cloudflare.com/generate_204,interval=600
 
 [Rule]
 RULE-SET,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/LocalAreaNetwork.list,DIRECT,update-interval=86400
